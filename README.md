@@ -8,4 +8,4 @@ Arduino Code for interfacing a Pendant to a GRBL Arduino
 List of Pendant disponible on EBAY :
 https://www.ebay.ca/i/282883870245?chn=ps&dispItem=1
 
-![Image description](https://github.com/patgadget/GRBL-Pendant/blob/master/Picture/Pendant.JPG | width=450)
+![Image description](https://github.com/patgadget/GRBL-Pendant/blob/master/Picture/Pendant.JPG)
